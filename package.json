@@ -1,0 +1,27 @@
+{
+  "name": "langchain-ts-mydata-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarchMD03/langchain-ts-mydata-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarchMD03/langchain-ts-mydata-sample/issues"
+  },
+  "homepage": "https://github.com/MarchMD03/langchain-ts-mydata-sample#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "hnswlib-node": "^2.0.0",
+    "langchain": "0.0.126",
+    "openai": "^3.3.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
